@@ -1,0 +1,3 @@
+[submodule "themes/mini-bau"]
+	path = themes/mini-bau
+	url = https://github.com/Kolya-YA/mini-bau.git
