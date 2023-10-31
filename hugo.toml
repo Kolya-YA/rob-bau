@@ -1,26 +1,31 @@
 theme = 'mini-bau'
 baseURL = 'https://example.org/'
-languageCode = 'en-us'
+languageCode = 'de'
 title = 'RobBau — Bauleistungen aus einer Hand'
 header = 'RobBau'
 subheader = 'Bauleistungen aus einer Hand'
 
-[[menus.main]]
-name = 'Home'
+[[menus.top]]
+name = 'Leistungen'
 pageRef = '/'
 weight = 10
 
-[[menus.main]]
-name = 'Posts'
-pageRef = '/posts'
+[[menus.top]]
+name = 'Angebot'
+pageRef = '/'
 weight = 20
 
-[[menus.main]]
-name = 'Tags'
-pageRef = '/tags'
+[[menus.top]]
+name = 'Portfolio'
+pageRef = '/'
 weight = 30
+
+[[menus.top]]
+name = 'Kontakt'
+pageRef = '/'
+weight = 40
 
 [module]
   [module.hugoVersion]
     extended = false
-    min = "0.116.0"
+    min = "0.119.0"
