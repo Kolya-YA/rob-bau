@@ -2,8 +2,11 @@ theme = 'mini-bau'
 baseURL = 'https://example.org/'
 languageCode = 'de'
 title = 'RobBau — Bauleistungen aus einer Hand'
-header = 'RobBau'
-subheader = 'Bauleistungen aus einer Hand'
+
+[params]
+  header = 'RobBau'
+  logoName = 'Rob Bau'
+  subHeader = 'Bauleistungen aus einer Hand'
 
 [[menus.top]]
 name = 'Leistungen'
@@ -25,7 +28,17 @@ name = 'Kontakt'
 pageRef = '/'
 weight = 40
 
+[[menus.legal]]
+name = 'Impressum'
+pageRef = '/'
+weight = 10
+
+[[menus.legal]]
+name = 'Datenschutz'
+pageRef = '/'
+weight = 20
+
 [module]
   [module.hugoVersion]
     extended = false
-    min = "0.119.0"
+    min = "0.120.0"
