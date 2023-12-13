@@ -5,7 +5,7 @@ title = 'RobBau — Bauleistungen aus einer Hand'
 
 [params]
   header = 'RobBau'
-  logoName = 'Rob Bau'
+  logoName = 'Rob • Bau'
   subHeader = 'Bauleistungen aus einer Hand'
 
 [[menus.top]]
