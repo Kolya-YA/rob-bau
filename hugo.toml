@@ -13,7 +13,7 @@ disableKinds = ['taxonomy', 'taxonomyTerm']
 
 [[menus.top]]
 name = 'Leistungen'
-pageRef = '/'
+url = '/#leistungen'
 weight = 10
 
 [[menus.top]]
@@ -23,7 +23,7 @@ weight = 20
 
 [[menus.top]]
 name = 'Portfolio'
-pageRef = '/'
+url = '/#portfolio'
 weight = 30
 
 [[menus.top]]

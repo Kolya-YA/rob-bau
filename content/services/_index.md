@@ -1,5 +1,5 @@
 ---
-title: Unsere Leistungen
+title: Leistungen
 date: 2023-12-01
 _build:
     render: never

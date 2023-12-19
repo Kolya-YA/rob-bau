@@ -1,8 +1,9 @@
-+++
-title = 'Home'
-date = 2023-10-01
-draft = false
-+++
+---
+title: 'Home'
+date: 2023-10-01
+---
+
+## BAULEISTUNGEN AUS EINER HAND
 
 Rufen Sie einfach uns an und sichern Sie sich sofort folgende Vorteile:
 
