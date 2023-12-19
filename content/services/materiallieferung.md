@@ -4,4 +4,6 @@ description: 'Sie benötigen hochwertige Materialien? Wir liefern Ihnen alles, w
 date: 2023-10-01
 serviceImg: 'repair04.jpg'
 weight: 80
+_build:
+    render: never
 ---

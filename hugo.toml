@@ -3,6 +3,9 @@ baseURL = 'https://example.org/'
 languageCode = 'de'
 title = 'RobBau — Bauleistungen aus einer Hand'
 
+
+disableKinds = ['taxonomy', 'taxonomyTerm']
+
 [params]
   header = 'RobBau'
   logoName = 'Rob • Bau'

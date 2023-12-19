@@ -4,4 +4,6 @@ description: 'Unebenheiten und Risse? Kein Problem! Mit unseren Spachtelarbeiten
 date: 2023-10-01
 serviceImg: 'repair01.jpg'
 weight: 50
+_build:
+    render: never
 ---

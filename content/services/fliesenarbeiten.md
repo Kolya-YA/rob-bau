@@ -4,4 +4,6 @@ description: 'Unsere erfahrenen Handwerker verlegen Fliesen präzise und sorgen 
 date: 2023-10-01
 serviceImg: 'repair02.jpg'
 weight: 20
+_build:
+    render: never
 ---

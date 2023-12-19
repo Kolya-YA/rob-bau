@@ -4,4 +4,6 @@ description: 'Wir realisieren individuelle Raumkonzepte und setzen Trennwände s
 date: 2023-10-01
 serviceImg: 'repair04.jpg'
 weight: 60
+_build:
+    render: never
 ---

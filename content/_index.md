@@ -14,7 +14,3 @@ Vertrauen Sie auf unsere Erfahrung und Fachkenntnisse. Unser Ziel ist es, Ihre R
 
 *Ich freuen mich darauf, Ihnen bei Ihren Projekten zu helfen!*  
 *Mit freundlichen Grüßen Robert Stahovyak*
-
-## Unsere Leistungen
-
-Willkommen bei unseren Leistungen! Wir sind Ihr kompetenter Partner für eine Vielzahl von Dienstleistungen rund um die Raumgestaltung und -verschönerung.

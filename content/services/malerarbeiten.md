@@ -4,4 +4,6 @@ description: 'Bringen Sie frische Farbe in Ihr Zuhause! Unsere Malerexperten ver
 date: 2023-10-01
 serviceImg: 'repair03.jpg'
 weight: 30
+_build:
+    render: never
 ---
